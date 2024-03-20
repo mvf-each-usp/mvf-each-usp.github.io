@@ -4,7 +4,7 @@
 
 ## Ensino
 
-### Orientações (IC, TCC e Mestrado)
+### Orientações (IC, TCC, Mestrado)
 
 #### Em andamento
 
