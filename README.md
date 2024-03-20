@@ -7,6 +7,7 @@
 ## Ensino
 
 [Disciplinas](disciplinas.md) (slides, materiais etc.)
+
 [Orientações (IC, TCC, Mestrado)](orientações.md): Vide [Interesses] primeiro.
 
 ## Pesquisa
