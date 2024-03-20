@@ -30,23 +30,47 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
 
 ## Pesquisa
 
-- Interesses
-    - Softwares estatísticos livres e de código aberto
-        - R, tidyverse e CRAN+BioConductor
-        - OpenBUGS, JAGS, Stan, Ox
-        - PSPP, JASP
-    - GNU+Linux ♥♥♥️
-    - Modelagem estocástica
-    - Modelagem bayesiana
-    - Métodos computacionais: 
-        - simulação, MCMC, otimização estocástica, 
-    - Filosofias da Ciência, da Matemática, da Probabilidade e da Estatística
-    - Ciência de Dados, áreas de conhecimentos, técnicas e tecnologias associadas
-- [Publicações](publicações.md)
-- Projetos: 
-- Projetos em andamento
-- Projetos lutando para continuar em andamento
-- Projetos anteriores
+-   [Publicações](publicações.md)
+-   [Projetos](projetos.md):
+    -   Projetos em andamento
+    -   Projetos lutando para continuar em andamento
+    -   Projetos anteriores
+-   Interesses
+    -   Modelagem e simulação estocásticas
+    -   Modelagem bayesiana
+    -   Métodos computacionais
+        -   simulação estocástica, otimização estocástica
+        -   simulação de distribuição a posterior, MCMC
+    -   Tópicos em Filosofias da Ciência, da Matemática, da Probabilidade e da Estatística
+    -   Ciência de Dados, áreas de conhecimentos, técnicas e tecnologias associadas
+        -   Inteligência de Dados em Negócios, carreiras, formações, complementaridades, sinergias e antagonismos
+        -   Softwares para análise e manuseio de dados 
+            -   Softwares livres e de código aberto ou gratuitos
+            -   R-verse: R ♥, tidyverse ♥, 20k+ pacotes no CRAN, RStudio
+            -   Estimação bayesiana: OpenBUGS, JAGS, Stan, Ox
+            -   Aplicativos estilo *point-and-click*
+                -   PSPP (SPSS do GNU), JASP, LibreOffice Calc, Gnumeric
+            -   Comandos de processamento de textos do GNU  
+            -   DBeaver
+        -   Outros softwares livres e de código aberto
+            -   GNU+Linux, FSF
+            -   Lubuntu e Linux Mint
+            -   git
+        -   Linguagens de programação em contexto de dados
+
+<!--
+- comandos de processamento de textos do GNU  
+  - coreutils: 
+    - csplit, expand/unexpand, head, join, numfmt, split, tac, tail
+    - extras: fold, nl, 
+  - pacotes GNU: gawk, sed, grep, make
+  - pacotes adicionais: json_pp, jq
+- Linguagens de programação em contexto de dados
+  - uso geral: R, python, Julia, SQL, Haskell
+  - domínio específico: bash script, awk, jq, expressões regulares, 
+  - dados: JSON, xml
+
+-->
 
 ## Extensão
 
