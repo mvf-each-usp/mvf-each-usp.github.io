@@ -50,7 +50,9 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
 
 ## Extensão
 
-## Cultura
+- [Projetos em Extensão](extensão.md)
+
+<!-- ## Cultura -->
 
 <!-- ## Inovação -->
 
