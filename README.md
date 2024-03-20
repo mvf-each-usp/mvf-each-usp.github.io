@@ -30,13 +30,23 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
 
 ## Pesquisa
 
-### Interesses
-
-### Projetos em andamento
-
-### Projetos lutando para continuar em andamento
-
-### Projetos anteriores
+- Interesses
+    - Softwares estatísticos livres e de código aberto
+        - R, tidyverse e CRAN+BioConductor
+        - OpenBUGS, JAGS, Stan, Ox
+        - PSPP, JASP
+    - GNU+Linux ♥♥♥️
+    - Modelagem estocástica
+    - Modelagem bayesiana
+    - Métodos computacionais: 
+        - simulação, MCMC, otimização estocástica, 
+    - Filosofias da Ciência, da Matemática, da Probabilidade e da Estatística
+    - Ciência de Dados, áreas de conhecimentos, técnicas e tecnologias associadas
+- [Publicações](publicações.md)
+- Projetos: 
+- Projetos em andamento
+- Projetos lutando para continuar em andamento
+- Projetos anteriores
 
 ## Extensão
 
