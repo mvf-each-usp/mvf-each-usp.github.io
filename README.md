@@ -6,15 +6,15 @@ Viu algo desatualizado? Teve alguma dúvida? Me dê um toque em `mvf$usp*br` (tr
 
 ## `ventura@linux:~$ whoami`
 
-### Quem sou eu?
+### Quem sou eu? 🤔
 
 Olá, meu nome é Marcelo Ventura Freire, sou professor doutor na Escola de Artes, Ciências e Humanidades ([EACH](https://www.each.usp.br)) da Universidade de São Paulo ([USP](https://www.usp.br)).
 
-### Onde fico eu?
+### Onde fico eu? 🗺
 
 Um bom lugar para me procurar é na Sala Coletiva Paulo Freire, I1-252 (2o andar do Titanic).
 
-### Como respondo você?
+### Como respondo você? 🤷
 
 Escreva pra mim no e-mail `mvf@usp.br` e eu te respondo assim que possível.
 
@@ -84,10 +84,10 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
 
 -   TEA e CAUSP
 -   Capoeira Angola na EACH
--   Data science
--   Bayesianismos
 -   R
+    -   `2b||!2b`: `2R&&!2python`
+    -   SER da UFF
     -   CRAN
-    -   R Brasil no Telegram
 -   `@omarceloventura` no Instagram
 -   meus repositórios no GitHub
+-   Mariana Benassi ♥♥♥♥♥♥ e Vitrola Manouche ♥♥♥ no Instagram e YouTube
