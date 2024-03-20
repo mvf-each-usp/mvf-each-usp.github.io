@@ -16,7 +16,9 @@ Um bom lugar para me procurar é na Sala Coletiva Paulo Freire, I1-252 (2o andar
 
 ### Como respondo você?
 
-Escreva pra mim no e-mail `mvf$usp*br` (troque o cifrão por arroba e o asterisco por ponto; scrapbots malditos, vão se lascar!)
+Escreva pra mim no e-mail `mvf@usp.br` e eu te respondo assim que possível.
+
+Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, mas ele geralmente só funciona quando não estou na mesa e para de funcionar assim que chego perto dele.
 
 ## Ensino
 
