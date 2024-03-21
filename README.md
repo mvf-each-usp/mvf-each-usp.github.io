@@ -2,7 +2,7 @@
 
 Seja muito bem vindo! 😄
 
-![Olá!](img/4x4-marcelo.jpeg)
+![Olá!](img/4x4-marcelo.jpeg){width="120" height="120"}
 
 Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
@@ -10,9 +10,9 @@ Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
 ### Quem sou eu? 🤔
 
-<div style="color:DarkGreen;">
+<blockquote style="color:DarkGreen;">
 — Sempre é apenas um momento, respondeu ela.
-</div>
+</blockquote>
 
 Olá, meu nome é Marcelo Ventura Freire, sou professor doutor na Escola de Artes, Ciências e Humanidades ([EACH](https://www.each.usp.br)) da Universidade de São Paulo ([USP](https://www.usp.br)).
 
