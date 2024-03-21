@@ -20,7 +20,7 @@
         -   Estimação bayesiana: OpenBUGS, JAGS, Stan, Ox
         -   Aplicativos estilo *point-and-click*
             -   PSPP (SPSS do GNU), JASP, LibreOffice Calc, Gnumeric
-        -   Comandos de processamento de textos do GNU\
+        -   Comandos de processamento de textos do GNU
         -   DBeaver
     -   Outros softwares livres e de código aberto
         -   GNU+Linux, FSF
@@ -40,4 +40,3 @@
   - domínio específico: bash script, awk, jq, expressões regulares, 
   - dados: JSON, xml
 -->
-
