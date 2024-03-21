@@ -1,14 +1,5 @@
 # Adega do Ventura
 
-+-------------------------------+--------------------------------------+
-| ![Olá!](img/4x4-marcelo.jpeg) | Seja muito bem vindo! 😄             |
-|                               |                                      |
-|                               | Viu algo desatualizado?\             |
-|                               | Teve alguma dúvida?\                 |
-|                               | Tem alguma sugestão?\                |
-|                               | Então me dê um toque em `mvf@usp.br` |
-+-------------------------------+--------------------------------------+
-
 Seja muito bem vindo! 😄
 
 ![Olá!](img/4x4-marcelo.jpeg)
@@ -19,9 +10,9 @@ Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
 ### Quem sou eu? 🤔
 
-::: {style="color: green"}
+<div style="color:DarkGreen;">
 — Sempre é apenas um momento, respondeu ela.
-:::
+</div>
 
 Olá, meu nome é Marcelo Ventura Freire, sou professor doutor na Escola de Artes, Ciências e Humanidades ([EACH](https://www.each.usp.br)) da Universidade de São Paulo ([USP](https://www.usp.br)).
 
