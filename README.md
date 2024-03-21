@@ -2,10 +2,10 @@
 
 <table width="100%">
   <tr>
-    <td width="30%" border-style=hidden;>
+    <th width="30%" style="border-style:hidden;">
       <img src="img/4x4-marcelo.jpeg" alt="Olá!" width="120" height="120"> 
-    </td>
-    <td border-style=hidden;>
+    </th>
+    <th style="border-style:hidden;">
       <p>Seja muito bem vindo! 😄</p>
       <p>
       Viu algo desatualizado?<br>
@@ -13,7 +13,7 @@
       Tem alguma sugestão?<br>
       Então me dê um toque em `mvf@usp.br`
       </p>
-    </td>
+    </th>
   </tr>
 </table>
 
