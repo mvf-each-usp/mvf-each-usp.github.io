@@ -4,6 +4,8 @@
 
 ## Ensino
 
+![O cego guiando os outros cegos](img/gassed.jpeg)
+
 ### Orientações (IC, TCC, Mestrado)
 
 #### Em andamento
