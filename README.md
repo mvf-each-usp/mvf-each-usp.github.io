@@ -2,10 +2,10 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="30%" border-style=hidden;>
       <img src="img/4x4-marcelo.jpeg" alt="Olá!" width="120" height="120"> 
     </td>
-    <td width="50%">
+    <td border-style=hidden;>
       <p>Seja muito bem vindo! 😄</p>
       <p>
       Viu algo desatualizado?<br>
