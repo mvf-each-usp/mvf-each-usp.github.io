@@ -6,6 +6,8 @@
 
 ### Disciplinas
 
+![Boneca Tenebrosa](img/tenebrosa.jpeg)
+
 #### Graduação
 
 #### Pós-graduação

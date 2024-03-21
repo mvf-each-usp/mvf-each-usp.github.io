@@ -2,6 +2,8 @@
 
 Seja muito bem vindo! 😄
 
+![Olá!](img/4x4-marcelo.jpeg)
+
 Viu algo desatualizado? Teve alguma dúvida? Me dê um toque em `mvf$usp*br` (troque o cifrão por arroba e o asterisco por ponto)
 
 ## `ventura@linux:~$ whoami`
