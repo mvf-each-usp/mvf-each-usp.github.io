@@ -30,7 +30,6 @@
         -   git
     -   Linguagens de programação em contexto de dados
 
-```{=html}
 <!--
 - comandos de processamento de textos do GNU  
   - coreutils: 
@@ -43,4 +42,3 @@
   - domínio específico: bash script, awk, jq, expressões regulares, 
   - dados: JSON, xml
 -->
-```
