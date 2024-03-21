@@ -2,7 +2,7 @@
 
 Seja muito bem vindo! 😄
 
-![Olá!](img/4x4-marcelo.jpeg){width="120" height="120"}
+<img src="img/4x4-marcelo.jpeg" alt="Olá!" width="120" height="120"> 
 
 Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
