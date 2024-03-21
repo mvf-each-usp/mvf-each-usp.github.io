@@ -10,6 +10,10 @@ Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
 ### Quem sou eu? 🤔
 
+> ::: {style="color: green"}
+> — Sempre é apenas um momento, respondeu ela.
+> :::
+
 Olá, meu nome é Marcelo Ventura Freire, sou professor doutor na Escola de Artes, Ciências e Humanidades ([EACH](https://www.each.usp.br)) da Universidade de São Paulo ([USP](https://www.usp.br)).
 
 ### Onde fico eu? 🗺
