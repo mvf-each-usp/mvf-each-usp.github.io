@@ -1,5 +1,22 @@
 # Adega do Ventura
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="img/4x4-marcelo.jpeg" alt="Olá!" width="120" height="120"> 
+    </td>
+    <td width="50%">
+      <p>Seja muito bem vindo! 😄</p>
+      <p>
+      Viu algo desatualizado?<br>
+      Teve alguma dúvida?<br>
+      Tem alguma sugestão?<br>
+      Então me dê um toque em `mvf@usp.br`
+      </p>
+    </td>
+  </tr>
+</table>
+
 Seja muito bem vindo! 😄
 
 <img src="img/4x4-marcelo.jpeg" alt="Olá!" width="120" height="120"> 
