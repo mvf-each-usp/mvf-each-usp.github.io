@@ -4,7 +4,7 @@ Seja muito bem vindo! 😄
 
 ![Olá!](img/4x4-marcelo.jpeg)
 
-Viu algo desatualizado? Teve alguma dúvida? Me dê um toque em `mvf$usp*br` (troque o cifrão por arroba e o asterisco por ponto)
+Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
 ## `ventura@linux:~$ whoami`
 
@@ -46,13 +46,13 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
     -   Tópicos em Filosofias da Ciência, da Matemática, da Probabilidade e da Estatística
     -   Ciência de Dados, áreas de conhecimentos, técnicas e tecnologias associadas
         -   Inteligência de Dados em Negócios, carreiras, formações, complementaridades, sinergias e antagonismos
-        -   Softwares para análise e manuseio de dados 
+        -   Softwares para análise e manuseio de dados
             -   Softwares livres e de código aberto ou gratuitos
             -   R-verse: R ♥, tidyverse ♥, 20k+ pacotes no CRAN, RStudio
             -   Estimação bayesiana: OpenBUGS, JAGS, Stan, Ox
             -   Aplicativos estilo *point-and-click*
                 -   PSPP (SPSS do GNU), JASP, LibreOffice Calc, Gnumeric
-            -   Comandos de processamento de textos do GNU  
+            -   Comandos de processamento de textos do GNU\
             -   DBeaver
         -   Outros softwares livres e de código aberto
             -   GNU+Linux, FSF
@@ -60,6 +60,7 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
             -   git
         -   Linguagens de programação em contexto de dados
 
+```{=html}
 <!--
 - comandos de processamento de textos do GNU  
   - coreutils: 
@@ -71,12 +72,11 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
   - uso geral: R, python, Julia, SQL, Haskell
   - domínio específico: bash script, awk, jq, expressões regulares, 
   - dados: JSON, xml
-
 -->
-
+```
 ## Extensão
 
-- [Projetos em Extensão](extensão.md)
+-   [Projetos em Extensão](extensão.md)
 
 <!-- ## Cultura -->
 
