@@ -1,5 +1,14 @@
 # Adega do Ventura
 
++-------------------------------+--------------------------------------+
+| ![Olá!](img/4x4-marcelo.jpeg) | Seja muito bem vindo! 😄             |
+|                               |                                      |
+|                               | Viu algo desatualizado?\             |
+|                               | Teve alguma dúvida?\                 |
+|                               | Tem alguma sugestão?\                |
+|                               | Então me dê um toque em `mvf@usp.br` |
++-------------------------------+--------------------------------------+
+
 Seja muito bem vindo! 😄
 
 ![Olá!](img/4x4-marcelo.jpeg)
