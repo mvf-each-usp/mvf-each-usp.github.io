@@ -10,9 +10,9 @@ Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
 ### Quem sou eu? 🤔
 
-> ::: {style="color: green"}
-> — Sempre é apenas um momento, respondeu ela.
-> :::
+::: {style="color: green"}
+— Sempre é apenas um momento, respondeu ela.
+:::
 
 Olá, meu nome é Marcelo Ventura Freire, sou professor doutor na Escola de Artes, Ciências e Humanidades ([EACH](https://www.each.usp.br)) da Universidade de São Paulo ([USP](https://www.usp.br)).
 
@@ -36,9 +36,9 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
 
 ## Pesquisa
 
--   [Publicações](publicações.md)
--   [Projetos](projetos.md)
--   [Interesses](interesses.md)
+-   [Publicações](publicações.md): *perish, publishing or not*
+-   [Projetos](projetos.md): aquela velha sobreposição quântica entre o *em andamento* e o *anterior*
+-   [Interesses](interesses.md): o que gosto de fazer na Academia e outras nerdices que podem virar publicação
 
 ## Extensão
 
