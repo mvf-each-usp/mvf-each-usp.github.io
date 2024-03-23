@@ -11,14 +11,16 @@ Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 ### Quem sou eu? 🤔
 
 <blockquote style="color:DarkGreen;">
+
 — Sempre é apenas um momento, respondeu ela.
+
 </blockquote>
 
 Olá, meu nome é Marcelo Ventura Freire, sou professor doutor na Escola de Artes, Ciências e Humanidades ([EACH](https://www.each.usp.br)) da Universidade de São Paulo ([USP](https://www.usp.br)).
 
 ### Onde fico eu? 🗺
 
-Um bom lugar para me procurar é na Sala Coletiva Paulo Freire, I1-252 (2o andar do Titanic).
+Um bom lugar para me procurar é na Sala Coletiva Paulo Freire (252), no 2^o^ andar do [Prédio I1 no Campus da EACH (USP Leste)](https://maps.app.goo.gl/UbmBhvS2nXhiCCgQA) .
 
 ### Como respondo você? 🤷
 
