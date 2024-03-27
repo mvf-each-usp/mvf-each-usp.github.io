@@ -19,26 +19,20 @@
     -   Softwares para análise e manuseio de dados
         -   Softwares livres e de código aberto ou gratuitos
         -   R-verse: R ♥, tidyverse ♥, 20k+ pacotes no CRAN, RStudio
-        -   Estimação bayesiana: OpenBUGS, JAGS, Stan, Ox
+        -   Estimação bayesiana de distribuições a posteriori por amostragem: OpenBUGS, JAGS, Stan, Ox
         -   Aplicativos estilo *point-and-click*
             -   PSPP (SPSS do GNU), JASP, LibreOffice Calc, Gnumeric
         -   Comandos de processamento de textos do GNU
+            -   pacotes GNU:
+                - coreutils (csplit, expand/unexpand, head/tail, join, numfmt, split; extras: fold, nl, tac, tsort)
+                -   gawk, sed, grep, make
+            -   pacotes adicionais: jq, json_pp
         -   DBeaver
     -   Outros softwares livres e de código aberto
         -   GNU+Linux, FSF
         -   Lubuntu e Linux Mint
         -   git
     -   Linguagens de programação em contexto de dados
-
-<!--
-- comandos de processamento de textos do GNU  
-  - coreutils: 
-    - csplit, expand/unexpand, head, join, numfmt, split, tac, tail
-    - extras: fold, nl, 
-  - pacotes GNU: gawk, sed, grep, make
-  - pacotes adicionais: json_pp, jq
-- Linguagens de programação em contexto de dados
-  - uso geral: R, python, Julia, SQL, Haskell
-  - domínio específico: bash script, awk, jq, expressões regulares, 
-  - dados: JSON, xml
--->
+        -   uso geral: R, python, Julia, SQL, Haskell
+        -   domínio específico: bash script, awk, jq, regex
+        -   dados: JSON, xml
