@@ -10,4 +10,34 @@
 
 #### Em andamento
 
+-   GIMME -- Grupo de Iniciação Científica do Marcelo de Métodos ~~Estranhos~~ Estatísticos
+    -   Giovana Alencar
+    -   Giovanna Alcassa
+    -   João Tosoli
+    -   Matheus Bruzaca
+    -   Victor Campos
+
 #### Anteriores
+
+##### Dissertação de Mestrado
+
+-   Joseliza Maria Machado dos Santos Amadeu, 2016
+-   Edson Ferreira Costa, 2014
+
+##### Trabalhos de Conclusão de Curso
+
+-   Luís Fábio dos Santos Castilho, 2014
+-   Isabela Cristina da Silva Januário, 2013
+
+##### Iniciação Científica
+
+-   Filipe Ferminiano Rodrigues, 2011
+-   Salvador Iglesias Ramalho, 2011
+-   Paulo Vitor Barthelemi Mescollote, 2010
+
+##### Monitoria
+
+-   Luís Fábio dos Santos Castilho, 2015
+-   Walney Barbosa dos Reis, 2014
+-   Ingrid Mariane Dutra de Araujo, 2014 e 2013
+-   Thiago Garcia Ochiro, 2013
