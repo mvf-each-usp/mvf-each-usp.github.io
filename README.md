@@ -52,7 +52,7 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
 
 ## Outros tópicos
 
--   TEA e CAUSP
+-   [Autismo](autismo.md)
 -   Capoeira Angola na EACH
 -   R
     -   `2b||!2b`: `2R&&!2python`
