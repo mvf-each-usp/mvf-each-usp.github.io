@@ -8,7 +8,8 @@
 
 -   TEA = Transtorno do Espectro Autista
 -   Eu sou autista.
--   Não sou nenhum tipo de autoridade no assunto. Não sou pesquisador ou estudioso do assunto, neurologista, psiquiatra, neuropsicólogo, psicólogo, fonoaudiólogo, terapeuta ocupaciona etc. Sou somente um pobre exatóide tentando entender quem e o quê diabos sou eu.
+-   Sou leigo. Não sou nenhum tipo de autoridade no assunto. Não sou pesquisador ou estudioso do assunto, neurologista, psiquiatra, neuropsicólogo, psicólogo, fonoaudiólogo, terapeuta ocupaciona etc. Sou somente um pobre exatóide tentando entender quem e o quê diabos sou eu.
+    -   Por isso, não acredite piamente no que escrevi aqui.  Fiz o meu melhor esforço para apresentar de forma organizada o que já aprendi sobre o assunto.  Mas faça sua própria pesquisa, pois eu posso estar errado em um ou mais conceitos, formulações ou afirmações apresentados aqui.
     -   Se você notou algum equívoco aqui, me dê um toque por favor no e-mail `mvf@usp.br` e eu corrijo aqui. 😃
 -   O Transtrno do Espectro Autista (TEA) é um distúrbio do neurodesenvolvimento, ou seja, desde embrião, o cérebro do autista se desenvolve diferentemente do cérebro neurotípico.
     -   O que causa essa diferença no desenvolvimento? Eu não sei. Os pesquisadores ainda estão ralando para descobrir isso. Com o passar dos anos, provavelmente descobriremos mais e esta página precisará de atualização.
