@@ -8,7 +8,7 @@ Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
 ## `ventura@linux:~$ whoami`
 
-### Quem eu sou? 🤔
+### Quem sou? 🤔
 
 <blockquote style="color:DarkGreen;">
 
@@ -18,11 +18,11 @@ Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
 Olá, meu nome é Marcelo Ventura Freire, sou professor doutor na Escola de Artes, Ciências e Humanidades ([EACH](https://www.each.usp.br)) da Universidade de São Paulo ([USP](https://www.usp.br)).
 
-### Onde eu fico? 🗺
+### Onde fico? 🗺
 
 Um bom lugar para me procurar é na Sala Coletiva Paulo Freire (252), no segundo andar do [Prédio I1 no Campus da EACH (USP Leste)](https://maps.app.goo.gl/UbmBhvS2nXhiCCgQA) .
 
-### Como te respondo? 🤷
+### Como respondo? 🤷
 
 Escreva pra mim no e-mail `mvf@usp.br` e eu te respondo assim que possível.
 
@@ -68,12 +68,11 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
     -   [X/Twitter](https://Eh-brinks-Nao-tenho-tuiter.com)
 -   Música!
     -   Minha amada cantando nas redes
-        -   [Mariana Benassi ♥ no Instagram](https://www.instagram.com/mari.benassi.canto/)
-        -   [Mariana Benassi ♥ no YouTube](https://www.youtube.com/@marianaebw)
+        -   [Mariana Benassi ](https://www.instagram.com/mari.benassi.canto/)❤️[ no Instagram](https://www.instagram.com/mari.benassi.canto/)
+        -   [Mariana Benassi ](https://www.youtube.com/@marianaebw)❤️[ no YouTube](https://www.youtube.com/@marianaebw)
         -   [Vitrola Manouche no Instagram](https://www.instagram.com/vitrolamanouche)
         -   [Vitrola Manouche no YouTube](https://www.youtube.com/@vitrolamanouche)
         -   ela dá aula de canto, você sabia? 😜
-        -   ❤️♥️♥️ &#x2665; &#xFE0F;
     -   Spotify
         -   [Minha playlist](https://open.spotify.com/playlist/01D0FoG20G3B27iSxBxEDh?si=3ccea591f0774b29)
 -   [Associação de Docentes da USP (ADUSP)](https://adusp.org.br/), uma seção sindical do [Sindicato Nacional dos Docentes das Instituições de Ensino Superior (ANDES-SN)](https://www.andes.org.br/) --- o meu sindicato!
