@@ -26,7 +26,7 @@
         -   Softwares livres e de código aberto ou gratuitos
         -   R-verse: 
             [CRAN](https://cran.r-project.org/),
-            `R` *base*,
+            [`R` *base*](https://cran.r-project.org/manuals.html),
             todo o [`tidyverse`](https://www.tidyverse.org/),
             [+ de 20k pacotes no CRAN](https://cran.r-project.org/web/packages/index.html),
             [IDE `RStudio`](https://posit.co/products/open-source/rstudio/)
