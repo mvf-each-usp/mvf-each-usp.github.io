@@ -12,8 +12,7 @@ Ah, sim: este é um *work in (perpetual) progress*
 
 ### Quem sou? 🤔
 
-> <span style="color:DarkGreen;">"Sempre é apenas um momento, respondeu ela."</span>
->
+> <span style="color:DarkGreen;">"Sempre é apenas um momento, respondeu ela."</span>\
 > --- Imperatriz Criança, em *A História sem Fim* de Michael Ende
 
 </blockquote>
