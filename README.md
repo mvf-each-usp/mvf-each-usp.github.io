@@ -31,7 +31,7 @@ Escreva pra mim no e-mail `mvf@usp.br` e eu te respondo assim que possível.
 
 Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, mas ele geralmente só funciona quando não estou na mesa e para de funcionar assim que chego perto dele.
 
-\
+<br>
 
 ## Ensino
 
@@ -41,11 +41,15 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
 -   [Disciplinas](disciplinas.md): slides, materiais etc.
 -   [Orientações](orientações.md): IC, TCC, Mestrado; vide o link [Interesses](interesses.md) abaixo.
 
+<br>
+
 ## Pesquisa
 
 -   [Publicações](publicações.md): *perish, publishing or not*
 -   [Projetos](projetos.md): aquela velha sobreposição quântica entre o *em andamento* e o *anterior*
 -   [Interesses](interesses.md): o que gosto de fazer na Academia e outras nerdices que podem virar publicação um dia quem sabe
+
+<br>
 
 ## Extensão
 
@@ -54,6 +58,8 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
 <!-- ## Cultura -->
 
 <!-- ## Inovação -->
+
+<br>
 
 ## Outros tópicos
 
