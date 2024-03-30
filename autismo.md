@@ -52,5 +52,10 @@
 -   A maior parte da compreensão atual do que é autismo é bastante recente, fruto do amadurencimento ao longo de décadas. O que se compreendia por autismo na década passada e na anterior e na anterior é brutalmente diferente.
     -   Por esse motivo, há autistas com 40, 50, 60, 70, 80 anos que não foram diagnosticados no passado (e nem teria como terem sido)
     -   Muitos autistas mais velhos não querem entrar mais em contato com uma realidade que trouxe muita dor e sofrimento para eles ao longo de suas vidas. Assim, ***nunca force*** um possível autista a ter que lidar uma realidade com a qual ele se recuse a lidar.
-    -   Da mesma forma, muitos autistas mais velhos aprenderam a duras penas a esconder sua neurodivergência como uma estrategia de sobrevivência. Assim, ***nunca force*** um autista a se assumir como tal em público.
+    -   Da mesma forma, muitos autistas mais velhos aprenderam a duras penas a esconder sua neurodivergência como uma estrategia de sobrevivência. Assim, ***nunca force*** um autista a se assumir como tal em público.  Ele tem motivos que ele julga bons para não querer fazer isso.
 -   [Coletivo Autista da USP](https://www.instagram.com/coletivoautista)
+-   Canais/perfis sobre autismo dos quais eu gosto
+    -   [Autism from the inside](https://www.youtube.com/@autismfromtheInside)
+    -   [Autispod](https://www.youtube.com/@AutisPod)
+    -   [I'm Autistic, Now What?](https://www.youtube.com/@imautisticnowwhat)
+    -   [Literalmente autismo](https://www.instagram.com/literalmente_autismo)
