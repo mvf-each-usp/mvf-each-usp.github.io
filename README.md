@@ -66,7 +66,6 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
     -   [Instagram](https://www.instagram.com/omarceloventura/)
     -   [Meta/Facebook](https://Eh-brinks-Nao-tenho-feicibuque.com)
     -   [X/Twitter](https://Eh-brinks-Nao-tenho-tuiter.com)
--   [Meus repositórios no GitHub](https://github.com/mvf-each-usp?tab=repositories)
 -   Música!
     -   Minha amada cantando nas redes
         -   [Mariana Benassi ♥♥ no Instagram](https://www.instagram.com/mari.benassi.canto/)
@@ -76,3 +75,5 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
         -   ela dá aula de canto, você sabia? 😜
     -   Spotify
         -   [Minha playlist](https://open.spotify.com/playlist/01D0FoG20G3B27iSxBxEDh?si=3ccea591f0774b29)
+-   [Associação de Docentes da USP (ADUSP)](https://adusp.org.br/), uma seção sindical do [Sindicato Nacional dos Docentes das Instituições de Ensino Superior (ANDES-SN)](https://www.andes.org.br/) --- o meu sindicato!
+-   [Meus repositórios no GitHub](https://github.com/mvf-each-usp?tab=repositories)
