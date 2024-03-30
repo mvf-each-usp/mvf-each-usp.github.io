@@ -6,6 +6,8 @@ Seja muito bem vindo! 😄
 
 Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
+Ah, sim: este é um *work in (perpetual) progress*
+
 ## `ventura@linux:~$ whoami`
 
 ### Quem sou? 🤔
