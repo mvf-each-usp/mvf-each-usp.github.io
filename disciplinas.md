@@ -32,10 +32,10 @@ Atuais:
 
 Antigas:
 
--   [ACH4532 Cálculo 1]() -- bacharelado em Marketing,  EACHUSP, 2013, 2011
+-   [ACH4532 Cálculo 1]() -- bacharelado em Marketing, EACHUSP, 2013, 2011
 -   [ACH0021 Tratamento e Análise de Dados/Informações]() -- ciclo básico, EACHUSP, 2013
--   [ACH4553 Cálculo II]() -- bacharelado em Marketing,  EACHUSP, 2011
--   [ACH4618 Experimentos em Marketing]() -- bacharelado em Marketing,  EACHUSP, 2010, 2008
+-   [ACH4553 Cálculo II]() -- bacharelado em Marketing, EACHUSP, 2011
+-   [ACH4618 Experimentos em Marketing]() -- bacharelado em Marketing, EACHUSP, 2010, 2008
 -   [ACH0041 Resolução de Problemas 1]() -- ciclo básico, EACHUSP, 2009, 2008, 2007
 -   [ACH0042 Resolução de Problemas 2]() -- ciclo básico, EACHUSP, 2007
 -   [ME480 Estatística para Biologistas]() -- bacharelado em Biologia, Unicamp, 2006
