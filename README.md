@@ -55,9 +55,12 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
 -   [Autismo](autismo.md)
 -   Capoeira Angola na EACH
 -   R
-    -   `2b||!2b`: `2R&&!2python`
-    -   SER da UFF
-    -   CRAN
+    -   [Seminário Internacional de Estatística com R (SER)](https://ser.uff.br/) da UFF
+    -   [The Comprehensive R Archive Network (CRAN)](https://cran.r-project.org/)
+    -   [RStudio IDE](https://posit.co/products/open-source/rstudio/)
+    -   [Posit Cloud (antigo RStudio Cloud)](https://posit.cloud/)
+        -   Sim, dá pra rodar RStudio e R sem instalar no seu computador!  Dá pra rodar até no seu celular!!!1!!
+    -   [Tidyverse](https://www.tidyverse.org/)
     -   [Grupo `R Brasil` no Telegram](https://t.me/rbrasiloficial)
 -   Eu nas redes socais
     -   [Instagram](https://www.instagram.com/omarceloventura/)
