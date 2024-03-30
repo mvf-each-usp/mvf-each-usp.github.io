@@ -21,8 +21,8 @@
 
 ##### Dissertação de Mestrado
 
--   Joseliza Maria Machado dos Santos Amadeu, 2016
--   Edson Ferreira Costa, 2014
+-   Joseliza Maria Machado dos Santos Amadeu, 2016 (não concluída)
+-   [Edson Ferreira Costa, PROFMAT, 2014](https://sca.profmat-sbm.org.br/profmat_tcc.php?id1=4119&id2=95573)
 
 ##### Trabalhos de Conclusão de Curso
 
