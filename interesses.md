@@ -67,7 +67,8 @@
             [bash script](https://www.gnu.org/software/bash/manual/bash.html), 
             [awk](https://www.gnu.org/software/gawk/manual/html_node/index.html), 
             [sed](https://www.gnu.org/software/sed/manual/sed.html), 
-            [regex]() (não é linguagem de programação, mas usa no `grep`, no `sed` e no `awk`), 
+            [regex](https://en.wikipedia.org/wiki/Regular_expression#Syntax) 
+            (não é linguagem de programação, mas usa no `grep`, no `sed` e no `awk`), 
             [jq](https://jqlang.github.io/jq/manual/)
         -   descrição de dados: 
             [JSON](https://en.wikipedia.org/wiki/JSON), 
