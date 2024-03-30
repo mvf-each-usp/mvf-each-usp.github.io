@@ -14,7 +14,7 @@ Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
 "Sempre é apenas um momento, respondeu ela."
 
-Imperatriz Criança em *A História sem Fim* de Michael Ende
+--- Imperatriz Criança, em *A História sem Fim* de Michael Ende
 
 </blockquote>
 

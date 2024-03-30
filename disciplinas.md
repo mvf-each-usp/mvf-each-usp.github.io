@@ -12,7 +12,7 @@
 > Terror!!\
 > Escuridão!!"
 >
-> -- Boneca Tenebrosa, em *A Volta da Boneca Tenebrosa*, A Turma da Mônica
+> --- Boneca Tenebrosa, em *A Volta da Boneca Tenebrosa*, A Turma da Mônica
 
 > Ogum ensinou aos homens a produção do alimento,\
 > dando-lhes o segredo da colheita,\
