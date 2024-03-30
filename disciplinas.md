@@ -12,7 +12,14 @@
 > Terror!!\
 > Escuridão!!"
 >
-> -- Boneca Tenebrosa
+> -- Boneca Tenebrosa, em *A Volta da Boneca Tenebrosa*, A Turma da Mônica
+
+> Ogum ensinou aos homens a produção do alimento,\
+> dando-lhes o segredo da colheita,\
+> tornando-se assim o patrono da agricultura.\
+> Ensinou a caçar e a forjar o ferro.
+>
+> *Mitologia dos Orixás*, de Reginaldo Prandi
 
 #### Graduação
 

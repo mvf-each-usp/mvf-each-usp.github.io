@@ -14,6 +14,8 @@ Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
 "Sempre é apenas um momento, respondeu ela."
 
+Imperatriz Criança em *A História sem Fim* de Michael Ende
+
 </blockquote>
 
 Olá, meu nome é Marcelo Ventura Freire, sou professor doutor na Escola de Artes, Ciências e Humanidades ([EACH](https://www.each.usp.br)) da Universidade de São Paulo ([USP](https://www.usp.br)).
