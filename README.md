@@ -31,6 +31,8 @@ Escreva pra mim no e-mail `mvf@usp.br` e eu te respondo assim que possível.
 
 Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, mas ele geralmente só funciona quando não estou na mesa e para de funcionar assim que chego perto dele.
 
+\
+
 ## Ensino
 
 -   Atendimento
