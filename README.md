@@ -54,7 +54,7 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
 
 ## Outros tópicos
 
--   [Autismo](autismo.md)
+-   [Autismo](autismo.md) <!-- trocar "autismo" por "TEA, AH/SD, TDAH e neurodiversidade" -->
 -   Capoeira Angola na EACH
 -   R
     -   [Seminário Internacional de Estatística com R (SER)](https://ser.uff.br/) da UFF
