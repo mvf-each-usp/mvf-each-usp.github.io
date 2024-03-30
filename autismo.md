@@ -4,14 +4,39 @@
 
 ## Outros tópicos
 
-### Autismo
+### Neurodiversidade
+
+Autismo, Altas Habilidades e Déficit de Atenção e Hiperatividade entre outros
+
+#### Caveat Emptor
+
+![Picapau comprando carro usado com o Zeca Urubu](img/picapau.jpeg)
+
+*Caveat emptor* significa "Recomenda-se cautela ao comprador" em latim ou mais coloquialmente "Por sua conta e risco!" como diria o Silvio Santos no Show do Milhão 🌽.
+
+Sou leigo.
+
+Não sou nenhum tipo de autoridade no assunto.
+
+Não sou pesquisador ou estudioso do assunto, neurologista, psiquiatra, neuropsicólogo, psicólogo, fonoaudiólogo, terapeuta ocupacional etc.
+
+Sou somente um pobre exatóide tentando entender quem e o quê diabos sou eu.
+
+E, acima de tudo, estou com muuuuita preguiça de procurar citações bibliográficas para cada informação que apresento abaixo.
+
+Por isso, não acredite piamente no que escrevi aqui.
+
+Fiz o meu melhor esforço para apresentar de forma organizada o que já aprendi sobre o assunto.
+
+Mas faça sua própria procura, pois eu posso estar errado em vários conceitos, formulações e/ou afirmações apresentados aqui.
+
+Se você notou algum equívoco aqui, me dê um toque por favor no e-mail `mvf@usp.br` e eu corrijo aqui. 😃
+
+#### Autismo
 
 -   TEA = Transtorno do Espectro Autista
 -   Eu sou autista.
--   Sou leigo. Não sou nenhum tipo de autoridade no assunto. Não sou pesquisador ou estudioso do assunto, neurologista, psiquiatra, neuropsicólogo, psicólogo, fonoaudiólogo, terapeuta ocupacional etc. Sou somente um pobre exatóide tentando entender quem e o quê diabos sou eu.
-    -   Por isso, não acredite piamente no que escrevi aqui.  Fiz o meu melhor esforço para apresentar de forma organizada o que já aprendi sobre o assunto.  Mas faça sua própria pesquisa, pois eu posso estar errado em um ou mais conceitos, formulações ou afirmações apresentados aqui.
-    -   Se você notou algum equívoco aqui, me dê um toque por favor no e-mail `mvf@usp.br` e eu corrijo aqui. 😃
--   O Transtrno do Espectro Autista (TEA) é um distúrbio do neurodesenvolvimento, ou seja, desde embrião, o cérebro do autista se desenvolve diferentemente do cérebro neurotípico.
+-   O Transtorno do Espectro Autista (TEA) é um distúrbio do neurodesenvolvimento, ou seja, desde embrião, o cérebro do autista se desenvolve diferentemente do cérebro neurotípico.
     -   O que causa essa diferença no desenvolvimento? Eu não sei. Os pesquisadores ainda estão ralando para descobrir isso. Com o passar dos anos, provavelmente descobriremos mais e esta página precisará de atualização.
 -   O conjunto de funções afetadas pelo autismo está sujeito a muita variabilidade, desde a intensidade quanto a quais funções afetadas.
     -   Por esse motivo, no que diz respeito à intensidade, para alguns autistas, pode muito custoso manter e sustentar o contato visual enquanto, para outros, pode ser algo feito sem esforço e, para outros ainda, a dificuldade pode ser não em manter a sustentação, mas sim em regular o quanto se mantém esse contato, mantendo por tempo demais e não percebendo que isso pode ser socialmente desconfortável para um neurotípico.
@@ -52,10 +77,26 @@
 -   A maior parte da compreensão atual do que é autismo é bastante recente, fruto do amadurencimento ao longo de décadas. O que se compreendia por autismo na década passada e na anterior e na anterior é brutalmente diferente.
     -   Por esse motivo, há autistas com 40, 50, 60, 70, 80 anos que não foram diagnosticados no passado (e nem teria como terem sido)
     -   Muitos autistas mais velhos não querem entrar mais em contato com uma realidade que trouxe muita dor e sofrimento para eles ao longo de suas vidas. Assim, ***nunca force*** um possível autista a ter que lidar uma realidade com a qual ele se recuse a lidar.
-    -   Da mesma forma, muitos autistas mais velhos aprenderam a duras penas a esconder sua neurodivergência como uma estrategia de sobrevivência. Assim, ***nunca force*** um autista a se assumir como tal em público.  Ele tem motivos que ele julga bons para não querer fazer isso.
+    -   Da mesma forma, muitos autistas mais velhos aprenderam a duras penas a esconder sua neurodivergência como uma estrategia de sobrevivência. Assim, ***nunca force*** um autista a se assumir como tal em público. Ele tem motivos que ele julga bons para não querer fazer isso.
 -   [Coletivo Autista da USP](https://www.instagram.com/coletivoautista)
--   Canais/perfis sobre autismo dos quais eu gosto
+-   Canais/perfis sobre autismo dos quais eu gosto de seguir e assistir
     -   [Autism from the inside](https://www.youtube.com/@autismfromtheInside)
     -   [Autispod](https://www.youtube.com/@AutisPod)
     -   [I'm Autistic, Now What?](https://www.youtube.com/@imautisticnowwhat)
     -   [Literalmente autismo](https://www.instagram.com/literalmente_autismo)
+
+#### Altas Habilidades/Superdotação (AH/SD)
+
+-   AH/SD = Altas Habilidades/Superdotação
+-   *Superdotação* é uma terminologia mais antiga que alguns pesquisadores atuais tentam trocar por *Altas Habilidades*, daí a sigla AH/SD
+-   ???
+-   Confusões e concepções equivocadas sobre o autismo:
+    -   Não, Altas Habilidades não é essa janta que todo mundo acha; AH não é um superpoder, pois ela vem com "efeitos colaterais" significativos e por vezes bastante pesados além da boa performance em tarefas específicas.
+    -   ???
+-   ???
+
+#### Transtorno de Déficit de Atenção e Hiperatividade
+
+-   TDAH = Transtorno de Déficit de Atenção e Hiperatividade
+
+-   ???
