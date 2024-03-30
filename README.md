@@ -1,5 +1,7 @@
 # Adega do Ventura
 
+</br>
+
 Seja muito bem vindo! 😄
 
 ![Olá!](img/4x4-marcelo.jpeg)
@@ -8,14 +10,14 @@ Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 
 Ah, sim: este é um *work in (perpetual) progress*
 
+</br>
+
 ## `ventura@linux:~$ whoami`
 
 ### Quem sou? 🤔
 
-> <span style="color:DarkGreen;">"Sempre é apenas um momento, respondeu ela."</span>\
+> ["Sempre é apenas um momento, respondeu ela."]{style="color:DarkGreen;"}\
 > --- Imperatriz Criança, em *A História sem Fim* de Michael Ende
-
-</blockquote>
 
 Olá, meu nome é Marcelo Ventura Freire, sou professor doutor na Escola de Artes, Ciências e Humanidades ([EACH](https://www.each.usp.br)) da Universidade de São Paulo ([USP](https://www.usp.br)).
 
