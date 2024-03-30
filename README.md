@@ -70,8 +70,8 @@ Você também pode tentar ligar para o meu telefone na USP `+55(11)3091-8894`, m
     -   [X/Twitter](https://Eh-brinks-Nao-tenho-tuiter.com)
 -   Música!
     -   Minha amada cantando nas redes
-        -   [Mariana Benassi ](https://www.instagram.com/mari.benassi.canto/)❤️[ no Instagram](https://www.instagram.com/mari.benassi.canto/)
-        -   [Mariana Benassi ](https://www.youtube.com/@marianaebw)❤️[ no YouTube](https://www.youtube.com/@marianaebw)
+        -   [Mariana Benassi](https://www.instagram.com/mari.benassi.canto/)❤️[no Instagram](https://www.instagram.com/mari.benassi.canto/)
+        -   [Mariana Benassi](https://www.youtube.com/@marianaebw)❤️[no YouTube](https://www.youtube.com/@marianaebw)
         -   [Vitrola Manouche no Instagram](https://www.instagram.com/vitrolamanouche)
         -   [Vitrola Manouche no YouTube](https://www.youtube.com/@vitrolamanouche)
         -   ela dá aula de canto, você sabia? 😜
