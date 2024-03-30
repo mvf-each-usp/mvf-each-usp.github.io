@@ -12,11 +12,9 @@ Ah, sim: este é um *work in (perpetual) progress*
 
 ### Quem sou? 🤔
 
-<blockquote style="color:DarkGreen;">
-
-"Sempre é apenas um momento, respondeu ela."
-
---- Imperatriz Criança, em *A História sem Fim* de Michael Ende
+> <span style="color:DarkGreen;">"Sempre é apenas um momento, respondeu ela."</span>
+>
+> --- Imperatriz Criança, em *A História sem Fim* de Michael Ende
 
 </blockquote>
 
