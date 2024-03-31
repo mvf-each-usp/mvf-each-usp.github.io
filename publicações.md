@@ -83,12 +83,16 @@ Meu último sobrenome é *Freire*, apesar de habitualmente me chamarem mais pelo
     In: L Zeggio, R Ekuni & O F A Bueno (Org). 
     Caçadores de Neuromitos (II): desvendando os mistérios do cérebro. 1a ed. 
     Florianópolis: IBIES, 2017, v. 2, p. 114-127.
+    [Repositório de produção da USP](https://repositorio.usp.br/item/002803955) 
+    (É capítulo de livro, então não tem PDF disponível)
 
 -   M E Benassi-Werke & M V Freire. 
     *O mito do Efeito Mozart*. 
     In: R Ekuni, L Leggio & O F A Bueno (Org). 
     Caçadores de Neuromitos: o que você sabe sobre o seu cérebro é verdade?. 1a ed. 
     São Paulo: Memnon, 2015, v. 1, p. 91-114.
+    [Repositório de produção da USP](https://repositorio.usp.br/item/002705567)
+    (Idem ao acima)
 
 #### Trabalhos completos publicados em anais de congressos
 
@@ -105,6 +109,12 @@ Meu último sobrenome é *Freire*, apesar de habitualmente me chamarem mais pelo
     In: The Neurosciences and Music - V: Cognitive Stimulation and Rehabilitation, 2014, 
     Dijon, França. TBA, 2014.
 
+-   M E Benassi-Werke, K Wise, M V Freire, S Hawkins & M G M Oliveira. 
+    *Influência de dificuldades musicais em percepção e produção na memória operacional para melodias*. 
+    In: SIMCAM 10 -- Simpósio de Cognição e Artes Musicais, 2014, Campinas, Brasil.
+    Anais do X Simpósio de Cognição e Artes Musicais - Nacional, Campinas, 2014, p. 445--452.
+    [ABCM](https://abcogmus.com/anais-do-10o-simposio-de-cognicao-e-artes-musicais/)
+
 -   R A Pose, M V Freire, C L N Azevedo, F D Silva, E A Oliveira, J E Vieira, 
     M J Carmona & C M Simões. 
     *Avaliação do risco de complicações perioperatórias em pacientes submetidos a cirurgia de cabeça e pescoço: Aplicação da Teoria de Resposta ao Item (TRI)*. 
@@ -113,17 +123,17 @@ Meu último sobrenome é *Freire*, apesar de habitualmente me chamarem mais pelo
 
 -   M F Freire. 
     *A Sinai-like RWRE theorem for dependent environment*. 
-    In: 8th Brazilian School of Probability, Ubatuba, 2004. 
+    In: 8th Brazilian School of Probability, 2004, Ubatuba, Brasil. 
     8th Brazilian School of Probability, 2004.
 
 -   M V Freire. 
     *Simulation of the one dimensional k-step exclusion process*. 
-    In: Vth Brazilian School of Probability, Ubatuba, 2001. 
+    In: Vth Brazilian School of Probability, 2001, Ubatuba, Brasil. 
     Vth Brazilian School of Probability, 2001.
 
 -   M M Atarassi, M V Freire & P R Massaguer. 
     *Predictive growth and death model of Bacillus cereus in refrigerated pasteurized milk*. 
     In: III Congreso Iberoamericano de Ingeniería de Alimentos 
-    & I Congreso Español de Alimentos, 2001, Valencia -- Espanha. 
-    Libro de Resumenes III Congresso Iberoamericano de Engenharia de Alimentos. 
+    & I Congreso Español de Alimentos, 2001, Valencia, Espanha. 
+    Libro de Resumenes III Congresso Iberoamericano de Engenharia de Alimentos, 
     Valencia: Editorial de la UPV, 2001. v. 3. p. 395-400.
