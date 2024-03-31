@@ -12,6 +12,11 @@ Autismo, Altas Habilidades e Déficit de Atenção e Hiperatividade entre outros
 
 ![Picapau comprando carro usado com o Zeca Urubu](img/picapau.jpeg)
 
+> The saddest aspect of life right now is that science gathers knowledge faster 
+> than society gathers wisdom.
+>
+> --- Isaac Asimov 
+
 *Caveat emptor* significa "Recomenda-se cautela ao comprador" em latim ou mais coloquialmente "Por sua conta e risco!" como diria o Silvio Santos no Show do Milhão 🌽.
 
 Sou leigo.
