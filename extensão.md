@@ -4,6 +4,8 @@
 
 ## Extensão
 
+![A Cama de Procrusto](procrustes.jpeg)
+
 Extensão universitária é tudo o que faz chegar ao público externo à universidade o conhecimento desenvolvido e cultivado na universidade por meio de ensino e pesquisa.
 
 <!--
