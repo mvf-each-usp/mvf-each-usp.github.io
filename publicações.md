@@ -6,6 +6,8 @@
 
 ### Publicações
 
+Meu último sobrenome é *Freire*, apesar de habitualmente me chamarem mais pelo meu sobrenome do meio (Ventura), daí eu ser o **M V Freire** nas referências abaixo.
+
 #### Artigos
 
 -   C X M Santos, C M Mendes & M V Freire. 
