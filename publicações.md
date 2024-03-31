@@ -6,15 +6,15 @@
 
 ### Publicações
 
-> É sempre assim. Morre-se. Não se compreende nada.\
-> Nunca se tem tempo de aprender. Envolvem-nos no jogo.\
+> É sempre assim. Morre-se. Não se compreende nada.
+> Nunca se tem tempo de aprender. Envolvem-nos no jogo.
 > Ensinam-nos as regras e à primeira falta matam-nos.
 >
 > O Velho e o Mar, de Ernest Hemingway
 
-> Vaidade de vaidades, diz o Pregador.\
-> Vaidade de vaidades! Tudo é vaidade.\
-> Que proveito alguém tem de todo o seu trabalho,\
+> Vaidade de vaidades, diz o Pregador.
+> Vaidade de vaidades! Tudo é vaidade.
+> Que proveito alguém tem de todo o seu trabalho,
 > com que se afadiga debaixo do sol?
 >
 > Eclesiastes 1:2-3
