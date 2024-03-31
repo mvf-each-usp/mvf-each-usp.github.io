@@ -26,35 +26,55 @@ Meu último sobrenome é *Freire*, apesar de habitualmente me chamarem mais pelo
 -   C X M Santos, C M Mendes & M V Freire. 
     *Self-similar resistive circuits as fractal-like structures*. 
     Revista Brasileira de Ensino de Física (São Paulo), v. 40, p. e1302-1-e1302-9, 2018.
+    [Scielo](https://www.scielo.br/j/rbef/a/Btg9zWDZXHVCwNsJjTB6BnM)
+    [Arxiv](https://arxiv.org/abs/1707.03274)
+    [Repositório de produção da USP](https://repositorio.usp.br/item/002843956)
 
 -   M A Leocadio-Miguel, F M Louzada, L L Duarte, R P Areas, M Alam, M V Freire, 
     J Fontenele-Araujo, L Menna-Barreto & M Pedrazzoli. 
     *Latitudinal cline of chronotype*. 
     Scientific Reports, v. 7, p. 1, 2017.
+    [Nature](https://www.nature.com/articles/s41598-017-05797-w)
+    [PubMed](https://pubmed.ncbi.nlm.nih.gov/28710358/)
+    [Repositório de produção da USP](https://repositorio.usp.br/item/002843983)
 
 -   M V Freire. 
     *Application of Moderate Deviation Techniques to Prove Sinai Theorem on RWRE*. 
     Journal of Statistical Physics, v. 160, p. 357-370, 2015.
+    [Springer](https://link.springer.com/article/10.1007/s10955-015-1266-1)
+    [Arxiv](https://arxiv.org/abs/1403.7535)
+    [Repositório de produção da USP](https://repositorio.usp.br/item/002843983)
 
 -   A Tufaile, M V Freire & A P B Tufaile. 
     *Some aspects of image processing using foams*. 
     Physics Letters. A (Print), v. 378, p. 3111-3117, 2014.
+    [Elsevier](https://www.sciencedirect.com/science/article/abs/pii/S0375960114008901)
+    [Repositório de produção da USP](https://repositorio.usp.br/item/002654601)
 
 -   J Baruque-Ramos, H Fonseca Filho, M V Freire & S M Peres. 
     *Experiências na área de engenharias e ciências aplicadas*. 
     ComCiência (UNICAMP), v. 115, p. 10, 2010.
+    [ComCiência](http://comciencia.scielo.br/scielo.php?script=sci_arttext&pid=S1519-76542010000100010)
 
 -   C Lasaitis, R L Ribeiro, M V Freire & O F A Bueno. 
     *Atualização das normas brasileiras para o International Affective Picture System (IAPS)*. 
     Revista de Psiquiatria do Rio Grande do Sul (Impresso), v. 30, p. 230-235, 2008.
+    [Scielo](https://www.scielo.br/j/rprs/a/Y4nYz9cHdJjNnHNWj5vhccG/)
+    [Repositório Institucional UNIFESP](https://repositorio.unifesp.br/items/47a41143-852f-4e90-b865-235478293f32)
+    [ResearchGate](https://www.researchgate.net/publication/237563959_Atualizacao_das_normas_brasileiras_para_o_International_Affective_Picture_System_IAPS_Update_of_the_Brazilian_norms_for_the_International_Affective_Picture_System_IAPS)
 
 -   M V Freire, S Popov & M Vachkovskaia. 
     *Percolation for the stable marriage of Poisson and Lebesgue*. 
     Stochastic Processes and their Applications, v. 117, p. 514-525, 2007.
+    [Elsevier](https://www.sciencedirect.com/science/article/pii/S0304414906001268)
+    [Arxiv](https://arxiv.org/abs/math/0511186)
+    [Repositório de produção da USP](https://repositorio.usp.br/item/001639907)
 
 -   M V Freire, H Guiol, K Ravishankar & E Saada. 
     *Microscopic structure of the k-step-exclusion process*. 
     Sociedade Brasileira de Matematica. Boletim, Nova Serie, v. 33, p. 319-339, 2002.
+    [Springer](https://link.springer.com/article/10.1007/s005740200017)
+    [ResearchGate](https://www.researchgate.net/publication/226572945_Microscopic_structure_of_the_k_-stepexclusion_process)
 
 #### Capitulos de livros
 
