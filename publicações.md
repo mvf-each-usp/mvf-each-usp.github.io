@@ -26,15 +26,15 @@ Meu último sobrenome é *Freire*, apesar de habitualmente me chamarem mais pelo
 -   C X M Santos, C M Mendes & M V Freire. 
     *Self-similar resistive circuits as fractal-like structures*. 
     Revista Brasileira de Ensino de Física (São Paulo), v. 40, p. e1302-1-e1302-9, 2018.
-    [Scielo](https://www.scielo.br/j/rbef/a/Btg9zWDZXHVCwNsJjTB6BnM)
-    [Arxiv](https://arxiv.org/abs/1707.03274)
-    [Repositório de produção da USP](https://repositorio.usp.br/item/002843956)
+    [[Scielo]](https://www.scielo.br/j/rbef/a/Btg9zWDZXHVCwNsJjTB6BnM)
+    [{Arxiv}](https://arxiv.org/abs/1707.03274)
+    [(Repositório de produção da USP)](https://repositorio.usp.br/item/002843956)
 
 -   M A Leocadio-Miguel, F M Louzada, L L Duarte, R P Areas, M Alam, M V Freire, 
     J Fontenele-Araujo, L Menna-Barreto & M Pedrazzoli. 
     *Latitudinal cline of chronotype*. 
     Scientific Reports, v. 7, p. 1, 2017.
-    [Nature](https://www.nature.com/articles/s41598-017-05797-w)
+    [<Nature>](https://www.nature.com/articles/s41598-017-05797-w)
     [PubMed](https://pubmed.ncbi.nlm.nih.gov/28710358/)
     [Repositório de produção da USP](https://repositorio.usp.br/item/002843983)
 
