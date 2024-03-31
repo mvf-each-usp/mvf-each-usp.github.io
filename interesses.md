@@ -79,13 +79,13 @@
 > "Paixão antiga sempre mexe com a gente\
 > É tão difícil esquecer"
 >
-> --- Tim Maia
+> *Paixão antiga*, Tim Maia
 
 > "O gato acha o rato muito interessante\
 > A cobra acha o sapo muito interessante\
 > Agradeço, você não se interessa mais por mim"
 >
-> --- Ney Matogrosso e Pedro Luís e a Parede
+> *Interesse*, Ney Matogrosso e Pedro Luís e a Parede
 
 -   Processos estocásticos especiais
 -   Passeio aleatório em meio aleatório
