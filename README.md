@@ -100,29 +100,8 @@ De trás pra frente, eu fiz
 -   Oversharing!  Tudo o que não tem nada a ver, mas que quero contar mesmo assim
     -   [Neurodiversidade](autismo.md): 
         Autismo, Altas Habilidades, Déficit de Atenção e Hiperatividade entre outros
-    -   Capoeira 
-        -   Eu cheguei a fazer capoeira regional baiana quando adolescente 
-            (ah, o pique, a agilidade e a flexibilidade daquela época!...), 
-            mas, no mestrado, eu treinei Angola durante um semestre com o impressionante 
-            [Mestre Jogo de Dentro](https://www.sementedojogodeangola.org.br/pt/mestre.html) 
-            e me apaixonei por Angola (com todo o devido respeito que a regional merece); 
-            pena que depois mudaram o local de Barão Geraldo para o centro de 
-            Campinas e aí não pude mais acompanhar 🙁
-        -   Daí imagina minha felicidade quando descobri que teríamos um grupo 
-            de vivência de capoeira Angola no meu trabalho, conduzido por Dini
-            ([Valdinei Freire](https://www.each.usp.br/valdinei/)), 
-            professor lá na EACH e aluno de Mestre Plínio
-            no [Angoleiros Sim Sinhô](https://www.instagram.com/angoleiro.sim.sinho.sp/)
-        -   As vivência de Capoeira Angola na EACH neste semestre (1o/2024) 
-            estão ocorrendo nas terças e sextas-feiras das 12:15 às 13:30 
-            no Ginásio; é um espaço de acolhimento e segurança para todes, todas e todos
-            poderem descobrir seus tempos e suas expressões em seus corpos, 
-            com proteção e respeito à diversidade
-        -   Venha!  Você canta, você dança, você joga, você toca instrumento, 
-            você se exercita, você descobre que não tem mais os mesmos 
-            pique, agilidade e flexibilidade de antigamente 😆,
-            você corre pra dar tempo de pegar o bandex,
-            é mó legal! 😃
+    -   [Capoeira na EACH](capoeira.md):
+        Vivências todas as terças e sextas-feiras das 12:15 às 13:30 no Ginásio da EACH
     -   Eu nas redes socais
         -   [Instagram](https://www.instagram.com/omarceloventura/)
         -   [Meta/Facebook](https://Eh-brinks-Nao-tenho-feicibuque.com)
@@ -134,4 +113,4 @@ De trás pra frente, eu fiz
             -   [Mariana Benassi](https://www.youtube.com/@marianaebw)❤️[no YouTube](https://www.youtube.com/@marianaebw)
             -   [Vitrola Manouche no Instagram](https://www.instagram.com/vitrolamanouche)
             -   [Vitrola Manouche no YouTube](https://www.youtube.com/@vitrolamanouche)
-            -   ela dá aula de canto, você sabia? 😜
+            -   Ela dá aula de canto, você sabia? 😜 DM pra ela e marca uma aula, vai!
