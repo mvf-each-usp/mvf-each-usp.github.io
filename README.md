@@ -80,7 +80,8 @@ De trás pra frente, eu fiz
         -   Sim, dá pra rodar RStudio e R sem instalar no seu computador! 
             Dá pra rodar até no seu celular!!!1!!
     -   [Tidyverse](https://www.tidyverse.org/)
-    -   [Grupo `R Brasil` no Telegram](https://t.me/rbrasiloficial)
+    -   [Grupo `R Brasil` no Telegram](https://t.me/rbrasiloficial): 
+        Reza a lenda que eu sou admin lá 😆😆😆
 -   [Associação de Docentes da USP (ADUSP)](https://adusp.org.br/), uma seção sindical do 
     [Sindicato Nacional dos Docentes das Instituições de Ensino Superior (ANDES-SN)](https://www.andes.org.br/) --- o meu sindicato!
 -   Estatística
@@ -109,8 +110,8 @@ De trás pra frente, eu fiz
     -   Música!
         -   [Minha playlist do Spotify](https://open.spotify.com/playlist/01D0FoG20G3B27iSxBxEDh?si=3ccea591f0774b29)
         -   Minha amada cantando nas redes
-            -   [Mariana Benassi](https://www.instagram.com/mari.benassi.canto/)❤️[no Instagram](https://www.instagram.com/mari.benassi.canto/)
-            -   [Mariana Benassi](https://www.youtube.com/@marianaebw)❤️[no YouTube](https://www.youtube.com/@marianaebw)
+            -   [Mariana Benassi ❤ no Instagram](https://www.instagram.com/mari.benassi.canto/)
+            -   [Mariana Benassi ❤ no YouTube](https://www.youtube.com/@marianaebw)
             -   [Vitrola Manouche no Instagram](https://www.instagram.com/vitrolamanouche)
             -   [Vitrola Manouche no YouTube](https://www.youtube.com/@vitrolamanouche)
             -   Ela dá aula de canto, você sabia? 😜 DM pra ela e marca uma aula, vai!
