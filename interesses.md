@@ -4,13 +4,13 @@
 
 ## Pesquisa
 
+### Interesses atuais
+
 ![A morte de Arquimedes](img/arquimedes.jpeg)
 
 > "Soldier, step off my diagram!"
 >
 > --- Arquimedes
-
-### Interesses atuais
 
 -   Modelagem e simulação estocásticas
 -   Modelagem bayesiana
