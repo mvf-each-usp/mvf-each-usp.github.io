@@ -6,7 +6,7 @@
 
 ### Orientações (IC, TCC, Mestrado)
 
-![O cego guiando os outros cegos](img/gassed.jpeg)
+![O cego guiando os outros cegos](img/gassed.jpeg "Um cego tentando guiar os outros cegos")
 
 > Disse-lhes ainda uma parábola: "Pode acaso um cego guiar outro cego?"
 >

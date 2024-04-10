@@ -4,7 +4,7 @@
 
 Seja muito bem vindo! 😄
 
-![Olá!](img/4x4-marcelo.jpeg "eu")
+![Olá!](img/4x4-marcelo.jpeg "Olá! Eu sou o Marcelo")
 
 Viu algo desatualizado? Me dê um toque em `mvf@usp.br`
 

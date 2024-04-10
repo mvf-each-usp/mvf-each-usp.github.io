@@ -6,7 +6,7 @@
 
 ### Disciplinas
 
-![Boneca Tenebrosa](img/tenebrosa.jpeg)
+![Boneca Tenebrosa](img/tenebrosa.jpeg "Medo!! Terror!! Escuridão!!")
 
 > " Medo!!\
 > Terror!!\

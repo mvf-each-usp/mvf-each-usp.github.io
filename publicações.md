@@ -6,7 +6,7 @@
 
 ### Publicações
 
-![Sísifo](img/sisifo.jpeg)
+![Sísifo](img/sisifo.jpeg "Patrão mandou empurrar essa pedra lá pra riba!")
 
 > É sempre assim. Morre-se. Não se compreende nada.
 > Nunca se tem tempo de aprender. Envolvem-nos no jogo.

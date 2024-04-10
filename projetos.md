@@ -6,7 +6,7 @@
 
 ### Projetos
 
-![Um projetil](img/projetil.jpeg)
+![Um projetil](img/projetil.jpeg "Um projetil e sua muito estranha trajetória")
 
 #### Projetos em andamento
 

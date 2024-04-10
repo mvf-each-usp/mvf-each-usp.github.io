@@ -10,7 +10,7 @@ Autismo, Altas Habilidades e Déficit de Atenção e Hiperatividade entre outros
 
 #### Caveat Emptor
 
-![Picapau comprando carro usado com o Zeca Urubu](img/picapau.jpeg)
+![Picapau comprando carro usado com o Zeca Urubu](img/picapau.jpeg "Não aceite nada pelo seu valor de face")
 
 > The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 >
@@ -38,7 +38,7 @@ Se você notou algum equívoco aqui, me dê um toque por favor no e-mail `mvf@us
 
 #### Autismo
 
-![Laço símbolo do TEA](img/autismo.png)
+![Laço símbolo do TEA](img/autismo.png "Era a peça que faltava")
 
 -   TEA = Transtorno do Espectro Autista
 -   Eu sou autista.

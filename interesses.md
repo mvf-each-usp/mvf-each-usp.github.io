@@ -6,7 +6,7 @@
 
 ### Interesses atuais
 
-![A morte de Arquimedes](img/arquimedes.jpeg)
+![A morte de Arquimedes](img/arquimedes.jpeg "Arquimedes foi muito foda!!!")
 
 > "Soldier, step off my diagram!"
 >
