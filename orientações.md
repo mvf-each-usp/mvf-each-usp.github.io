@@ -4,13 +4,13 @@
 
 ## Ensino
 
+### Orientações (IC, TCC, Mestrado)
+
 ![O cego guiando os outros cegos](img/gassed.jpeg)
 
 > Disse-lhes ainda uma parábola: "Pode acaso um cego guiar outro cego?"
 >
 > Lucas 6:39
-
-### Orientações (IC, TCC, Mestrado)
 
 #### Em andamento
 
