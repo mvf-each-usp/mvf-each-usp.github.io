@@ -12,10 +12,9 @@ Autismo, Altas Habilidades e Déficit de Atenção e Hiperatividade entre outros
 
 ![Picapau comprando carro usado com o Zeca Urubu](img/picapau.jpeg)
 
-> The saddest aspect of life right now is that science gathers knowledge faster 
-> than society gathers wisdom.
+> The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
 >
-> --- Isaac Asimov 
+> --- Isaac Asimov
 
 *Caveat emptor* significa "Recomenda-se cautela ao comprador" em latim ou mais coloquialmente "Por sua conta e risco!" como diria o Silvio Santos no Show do Milhão 🌽.
 
@@ -38,6 +37,8 @@ Mas faça sua própria procura, pois eu posso estar errado em vários conceitos,
 Se você notou algum equívoco aqui, me dê um toque por favor no e-mail `mvf@usp.br` e eu corrijo aqui. 😃
 
 #### Autismo
+
+![Laço símbolo do TEA](img/autismo.png)
 
 -   TEA = Transtorno do Espectro Autista
 -   Eu sou autista.
