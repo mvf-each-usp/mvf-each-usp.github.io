@@ -38,7 +38,7 @@ Se você notou algum equívoco aqui, me dê um toque por favor no e-mail `mvf@us
 
 #### Autismo
 
-![Laço símbolo do TEA](img/autismo.jpeg)
+![Laço símbolo do TEA](img/autismo.png)
 
 -   TEA = Transtorno do Espectro Autista
 -   Eu sou autista.
