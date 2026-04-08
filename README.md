@@ -104,7 +104,7 @@ De trás pra frente, eu fiz
     -   [Capoeira na EACH](capoeira.md):
         Vivências todas as terças e sextas-feiras das 12:15 às 13:30 no Ginásio da EACH
     -   Eu nas redes socais
-        -   [Instagram](https://www.instagram.com/omarceloventura/)
+        -   [Instagram](https://Eh-brinks-Nao-tenho-instagram.com)
         -   [Meta/Facebook](https://Eh-brinks-Nao-tenho-feicibuque.com)
         -   [X/Twitter](https://Eh-brinks-Nao-tenho-tuiter.com)
     -   Música!
