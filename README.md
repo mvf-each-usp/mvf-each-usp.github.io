@@ -72,7 +72,7 @@ De trás pra frente, eu fiz
 ## Outros tópicos
 
 -   [Meus repositórios no GitHub](https://github.com/mvf-each-usp?tab=repositories)
--   A linguagem e ambiente de processamento e análises de dados R
+-   R: a linguagem e o ambiente de processamento e de análises de dados
     -   [Seminário Internacional de Estatística com R (SER)](https://ser.uff.br/) da UFF
     -   [The Comprehensive R Archive Network (CRAN)](https://cran.r-project.org/)
     -   [RStudio IDE](https://posit.co/products/open-source/rstudio/)
