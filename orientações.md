@@ -14,12 +14,10 @@
 
 #### Em andamento
 
+<!---
 -   GIMME -- Grupo de Iniciação Científica do Marcelo de Métodos ~~Estranhos~~ Estatísticos
-    -   Giovana Alencar
-    -   Giovanna Alcassa
-    -   João Tosoli
-    -   Matheus Bruzaca
-    -   Victor Campos
+ --->
+-   Nope. Nada aqui por enquanto
 
 #### Anteriores
 
@@ -35,6 +33,11 @@
 
 ##### Iniciação Científica
 
+-   Giovana Alencar, 2024  (não concluída)
+-   Giovanna Alcassa, 2024  (não concluída)
+-   João Tosoli, 2024  (não concluída)
+-   Matheus Bruzaca, 2024  (não concluída)
+-   Victor Campos, 2024  (não concluída)
 -   Filipe Ferminiano Rodrigues, 2011
 -   Salvador Iglesias Ramalho, 2011
 -   Paulo Vitor Barthelemi Mescollote, 2010
