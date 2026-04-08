@@ -114,4 +114,6 @@ De trás pra frente, eu fiz
             -   [Mariana Benassi ❤ no YouTube](https://www.youtube.com/@marianaebw)
             -   [Vitrola Manouche no Instagram](https://www.instagram.com/vitrolamanouche)
             -   [Vitrola Manouche no YouTube](https://www.youtube.com/@vitrolamanouche)
+            -   [Vitrola Manouche no Spottify](https://open.spotify.com/artist/7ikllMy4eaWbkjHu5JeXAU)
+            -   [O primeiro EP do Vitrola Manouche no Spottify](https://open.spotify.com/album/4SM2H6pN7Qxs5EuG0Li2pV)
             -   Ela dá aula de canto, você sabia? 😜 DM pra ela e marca uma aula, vai!
