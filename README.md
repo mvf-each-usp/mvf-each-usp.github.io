@@ -19,7 +19,7 @@ Ah, sim: este é um *work in (perpetual) progress*
 > <span style="color:DarkGreen;">"Sempre é apenas um momento, respondeu ela."</span>\
 > --- Imperatriz Criança, em *A História sem Fim* de Michael Ende
 
-Olá, meu nome é Marcelo Ventura Freire, sou professor doutor na Escola de Artes, Ciências e Humanidades ([EACH](https://www.each.usp.br)) da Universidade de São Paulo ([USP](https://www.usp.br)).
+Olá, meu nome é Marcelo Ventura Freire, sou professor doutor na Escola de Artes, Ciências e Humanidades ([EACH](https://www.each.usp.br)) da Universidade de São Paulo ([USP](https://www.usp.br)) e conselheiro suplente no [Conselho Regional de Estatística -- 3^a^ Região (CONRE-3)](https://www.conre3.org.br/).
 
 ### Onde fico? 🗺
 
