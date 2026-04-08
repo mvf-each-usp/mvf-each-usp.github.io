@@ -2,7 +2,7 @@
 
 <br>
 
-Seja muito bem vindo! 😄
+Seja muito bem vinde! 😄
 
 ![Olá!](img/4x4-marcelo.jpeg "Olá! Eu sou o Marcelo")
 
