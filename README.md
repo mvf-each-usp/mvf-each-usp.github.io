@@ -63,6 +63,10 @@ De trás pra frente, eu fiz
 
 -   [Projetos em Extensão](extensão.md)
 
+## Inclusão e Pertencimento
+
+-   [Projetos em Inclusão e Pertencimento](inclusão.md)
+
 <!-- ## Cultura -->
 
 <!-- ## Inovação -->

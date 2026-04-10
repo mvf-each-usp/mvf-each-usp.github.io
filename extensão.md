@@ -19,11 +19,6 @@ Extensão universitária é tudo o que faz chegar ao público externo à univers
     - Interessado? Me escreve! 
 
 
-### Projetos em elaboração
-
-- Oficina *Matemática com Acolhimento* (nome provisório)
-
-
 ### Projetos já realizados e em reelaboração
 
 - Curso "Estatística Descritiva para Professores do 1^o^ Ciclo do Ensino Fundamental"
