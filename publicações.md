@@ -23,6 +23,15 @@
 
 Meu último sobrenome é *Freire*, apesar de habitualmente me chamarem mais pelo meu sobrenome do meio (Ventura), daí eu ser o **M V Freire** nas referências abaixo.
 
+
+#### Preprints
+
+-   José Ricardo G. Mendonça & Marcelo V. Freire.
+    *Longest weakly increasing subsequences of discrete random walks on the integers with heavy tailed distribution of increments*.
+    [(Arxiv)](https://arxiv.org/abs/2603.29047)
+    [(DOI)](https://doi.org/10.48550/arXiv.2603.29047)
+
+
 #### Artigos
 
 -   C X M Santos, C M Mendes & M V Freire. 
