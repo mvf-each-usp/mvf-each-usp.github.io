@@ -25,3 +25,11 @@ Extensão universitária é tudo o que faz chegar ao público externo à univers
     - Parte 2/6: Probabilidade como Caracterização Quantitativa de Escolha Racional de Crença (2020-04-01)\
       https://www.youtube.com/watch?v=eDi88i_YYxc&t
     - série interrompida
+
+
+### Atividades voluntárias de Extensão
+
+- Moderação da comunidade [R Brasil no Telegram](https://t.me/rbrasiloficial)
+
+
+
