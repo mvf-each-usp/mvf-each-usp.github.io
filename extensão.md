@@ -8,7 +8,6 @@
 
 Extensão universitária é tudo o que faz chegar ao público externo à universidade o conhecimento desenvolvido e cultivado na universidade por meio de ensino e pesquisa.
 
-```{=html}
 <!--
 
 https://www.youtube.com/watch?v=SQ_g0d5GpDc
@@ -22,4 +21,5 @@ Série "Introdução às Bases da Estatística Bayesiana"
 Parte 2/6: Probabilidade como Caracterização Quantitativa de Escolha Racional de Crença
 
 -->
-```
+
+
