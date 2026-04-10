@@ -12,6 +12,8 @@
 >
 > --- Arquimedes
 
+-   Processos estocásticos especiais
+-   Passeio aleatório em meio aleatório
 -   Modelagem e simulação estocásticas
 -   Modelagem bayesiana
 -   Métodos computacionais
@@ -20,14 +22,15 @@
     -   simulação de distribuição a posterior
 -   Tópicos em Filosofias da Ciência, da Matemática, da Probabilidade e da Estatística
 -   Ciência de Dados, áreas de conhecimentos, técnicas e tecnologias associadas
-    -   Tratamento, análise e visualização de dados
+    -   Tratamento, manuseio, faxina, análise, modelagem e visualização de dados
     -   Inteligência de Dados em Negócios: carreiras, formações, complementaridades, sinergias e antagonismos
     -   Softwares para análise e manuseio de dados
         -   Softwares livres e de código aberto ou gratuitos
         -   R-verse: 
             [CRAN](https://cran.r-project.org/),
             [`R` *base*](https://cran.r-project.org/manuals.html),
-            todo o [`tidyverse`](https://www.tidyverse.org/),
+            todo o [`tidyverse`](https://www.tidyverse.org/) 
+            e [pacotes *tidy-principled*](https://design.tidyverse.org/),
             [+ de 20k pacotes no CRAN](https://cran.r-project.org/web/packages/index.html),
             [IDE `RStudio`](https://posit.co/products/open-source/rstudio/)
         -   Programas para estimação bayesiana de distribuições a posteriori por amostragem:
@@ -47,7 +50,11 @@
                     [`sed`](https://en.wikipedia.org/wiki/Sed),
                     [`grep`](https://en.wikipedia.org/wiki/Grep),
                     [`make`](https://en.wikipedia.org/wiki/Make_(software))
-            -   aplicativos adicionais: [`jq`](https://jqlang.github.io/jq),
+            -   aplicativos adicionais: 
+                [`jq`](https://jqlang.github.io/jq) (json query),
+                [`gron`](https://github.com/tomnomnom/gron) (make json greppable),
+                [`yq`](https://github.com/kislyuk/yq) (tipo o jq para yaml + xml + toml),
+                [`yamllint`](https://github.com/adrienverge/yamllint) (validador yaml)
         -   Aplicativo de administração de SGBD relacional [`dbeaver`](https://dbeaver.io/)
     -   Outros softwares livres e de código aberto e tópicos relacionados
         -   [GNU](https://www.gnu.org/), 
@@ -55,24 +62,35 @@
             [GNU+Linux](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy),
             [Lubuntu](https://lubuntu.me/), 
             [Linux Mint](https://linuxmint.com/)
-        -   Sistema de controle de versionamento `git`
+        -   Sistema de controle de versionamento [`git`](https://git-scm.com/)
     -   Linguagens de programação em contexto de dados
         -   uso mais geral: 
-            [R](https://en.wikipedia.org/wiki/R_(programming_language)), 
-            [python](https://en.wikipedia.org/wiki/Python_(programming_language)), 
-            [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language)), 
-            [SQL](https://en.wikipedia.org/wiki/SQL), 
-            [Haskell](https://en.wikipedia.org/wiki/Haskell)
+            [R](https://www.r-project.org/), 
+            [python](https://www.python.org/),
+            [Julia](https://julialang.org/), 
+            [SQL](https://www.iso.org/standard/76583.html),
+            [Haskell](https://www.haskell.org/)
         -   domínio específico: 
             [bash script](https://www.gnu.org/software/bash/manual/bash.html), 
             [awk](https://www.gnu.org/software/gawk/manual/html_node/index.html), 
             [sed](https://www.gnu.org/software/sed/manual/sed.html), 
-            [regex](https://en.wikipedia.org/wiki/Regular_expression#Syntax) 
-            (não é linguagem de programação, mas usa no `grep`, no `sed` e no `awk`), 
             [jq](https://jqlang.github.io/jq/manual/)
-        -   descrição de dados: 
-            [JSON](https://en.wikipedia.org/wiki/JSON), 
-            [xml](https://www.w3.org/TR/xml/)
+    -   Formatos de dados
+        -   Formatos de intercâmbio de dados:
+            [JSON](https://www.json.org/), 
+            [XML](https://www.w3.org/TR/xml/),
+            [yaml](https://yaml.org/),
+            [TOML](https://toml.io/),
+            [uuencode](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/uuencode.html)
+        -   Linguagens de markup: 
+            [LaTeX](https://latex-project.org/), 
+            [markdown](https://daringfireball.net/projects/markdown/),
+            [R markdown](https://yihui.org/rmarkdown/),
+            [Quarto ("quarto markdown")](https://quarto.org/),
+            [github flavored markdown (gfm)](https://github.github.com/gfm/)
+        -   Linguagens de descrição de padrões de texto:
+            [regex](https://pubs.opengroup.org/onlinepubs/9799919799/basedefs/V1_chap09.html), 
+            [xpath](https://www.w3.org/TR/xpath-31/)
 
 ### Interesses anteriores
 
@@ -87,8 +105,6 @@
 >
 > *Interesse*, Ney Matogrosso e Pedro Luís e a Parede
 
--   Processos estocásticos especiais
--   Passeio aleatório em meio aleatório
 -   Métodos multivariados
 -   Aplicações de Análise de Correspondência Simples e Múltipla
 -   Metodologias ativas de aprendizagem (Problem Based Learning/PBL)
@@ -98,4 +114,3 @@
 -   Programas estatísticos (Stata, Minitab, OxMetrics, SPSS, SAS, OpenBUGS, WinBUGS)
 -   Processamento paralelo
 -   Ambientes computacionais Unix-like (Debian, Ubuntu, SUSE, AIX, Solaris etc.)
--   Linguagens de markup LaTeX e markdown
