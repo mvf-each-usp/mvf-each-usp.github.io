@@ -4,7 +4,9 @@
 
 ## Inclusão e Pertencimento
 
+<!--- 
 ![A Cama de Procrusto](img/procrustes.jpeg "Patrão mandou extender!")
+--->
 
 Inclusão e Pertencimento é toda atividade que almeja garantir acesso acesso 
 equitativo, permanência e sucesso acadêmico a todos os estudantes, 
